@@ -1,0 +1,44 @@
+.landingpage{
+  background-image: url("../img/backgrounds/landing.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  height: 550px;
+
+}
+h1{
+  text-align: center;
+  text-color: white;
+}
+h2{
+  font-color:orange;
+  font-size: 20;
+  font-style: italic;
+}
+.img{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+#b{
+  background-color:white;
+}
+.happyTime{
+  height: ;
+
+}
+.happyhour{
+
+  height: ;
+  width: ;
+}
+
+#imgtext{
+  position: absolute;
+  bottom: 60px;
+  left: 50px;
+  font-size: 30px;
+  color: white;
+
+}
